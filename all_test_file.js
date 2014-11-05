@@ -1,0 +1,1 @@
+require("./tests/Folder/folderController.js");require("./tests/Folder/folderView.js");require("./tests/Folder/photo.js");require("./tests/Folder/photoView.js");
